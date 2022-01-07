@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<gameSettings revision="15">
+    <modsDirectoryOverride active="false" directory="C:/Temp"/>
+    <defaultMultiplayerPort>10823</defaultMultiplayerPort>
+    <motorStopTimerDuration>180</motorStopTimerDuration>
+    <horseAbandonTimerDuration>1800</horseAbandonTimerDuration>
+    <invertYLook>false</invertYLook>
+    <isHeadTrackingEnabled>true</isHeadTrackingEnabled>
+    <forceFeedback>0.500000</forceFeedback>
+    <isGamepadEnabled>true</isGamepadEnabled>
+    <cameraSensitivity>1.000000</cameraSensitivity>
+    <vehicleArmSensitivity>1.000000</vehicleArmSensitivity>
+    <steeringBackSpeed>5.000000</steeringBackSpeed>
+    <steeringSensitivity>1.000000</steeringSensitivity>
+    <inputHelpMode>1</inputHelpMode>
+    <easyArmControl>true</easyArmControl>
+    <gyroscopeSteering>false</gyroscopeSteering>
+    <hints>true</hints>
+    <cameraTilting>false</cameraTilting>
+    <showAllMods>true</showAllMods>
+    <onlinePresenceName>jono</onlinePresenceName>
+    <player lastPlayerStyleMale="true"/>
+    <mpLanguage>0</mpLanguage>
+    <volume>
+        <music>0.500000</music>
+        <vehicle>1.000000</vehicle>
+        <environment>0.500000</environment>
+        <radio>0.300000</radio>
+        <gui>0.300000</gui>
+        <voice>1.000000</voice>
+        <voiceInput>1.000000</voiceInput>
+    </volume>
+    <soundPlayer allowStreams="true"/>
+    <radioIsActive>true</radioIsActive>
+    <radioVehicleOnly>false</radioVehicleOnly>
+    <voice mode="2"/>
+    <units>
+        <money>2</money>
+        <miles>false</miles>
+        <fahrenheit>false</fahrenheit>
+        <acre>false</acre>
+    </units>
+    <isTrainTabbable>true</isTrainTabbable>
+    <showTriggerMarker>true</showTriggerMarker>
+    <showFieldInfo>true</showFieldInfo>
+    <showHelpIcons>true</showHelpIcons>
+    <showHelpMenu>false</showHelpMenu>
+    <resetCamera>false</resetCamera>
+    <activeSuspensionCamera>true</activeSuspensionCamera>
+    <cameraCheckCollision>true</cameraCheckCollision>
+    <useWorldCamera>true</useWorldCamera>
+    <ingameMapState>2</ingameMapState>
+    <ingameMapFilters>0</ingameMapFilters>
+    <directionChangeMode>2</directionChangeMode>
+    <gearShiftMode>1</gearShiftMode>
+    <hudSpeedGauge>1</hudSpeedGauge>
+    <useColorblindMode>false</useColorblindMode>
+    <maxNumMirrors>7</maxNumMirrors>
+    <lightsProfile>4</lightsProfile>
+    <fovY>60.000000</fovY>
+    <uiScale>1.000000</uiScale>
+    <realBeaconLights>true</realBeaconLights>
+    <cameraBobbing>true</cameraBobbing>
+    <showHelpTrigger>true</showHelpTrigger>
+    <shownFreemodeWarning>false</shownFreemodeWarning>
+</gameSettings>

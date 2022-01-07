@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<game>
+    <language>-1</language>
+    <graphic>
+        <display>
+            <width>3440</width>
+            <height>1440</height>
+            <brightness>1</brightness>
+            <fullscreenMode>exclusive_fullscreen</fullscreenMode>
+            <vsync adaptive="true">false</vsync>
+            <userConfirmed>true</userConfirmed>
+            <previousWidth>1280</previousWidth>
+            <previousHeight>720</previousHeight>
+            <rtScaling>1.000000</rtScaling>
+            <scaling>1.000000</scaling>
+        </display>
+        <scalability>
+            <performanceClass>Very High</performanceClass>
+            <postProcessAA>Off</postProcessAA>
+            <dlssQuality>Performance</dlssQuality>
+            <viewDistanceCoeff>2.000000</viewDistanceCoeff>
+            <maxNumShadowLights>10</maxNumShadowLights>
+            <terrainQuality>3</terrainQuality>
+            <shadowDistanceQuality>2</shadowDistanceQuality>
+            <shadowMapFilterSize>16</shadowMapFilterSize>
+            <volumeMeshTessellationCoeff>0.500000</volumeMeshTessellationCoeff>
+            <anisotropy>16</anisotropy>
+            <ssaoQuality>19</ssaoQuality>
+            <cloudQuality>4</cloudQuality>
+            <useTrilinearFiltering>true</useTrilinearFiltering>
+            <shaderQuality>3</shaderQuality>
+            <fidelityFxSR>Off</fidelityFxSR>
+            <shadingRateQuality>3</shadingRateQuality>
+            <msaa>0</msaa>
+            <shadowFocusBox>true</shadowFocusBox>
+            <allowFoliageShadows>true</allowFoliageShadows>
+            <tyreTracksSegmentsCoeff>4.000000</tyreTracksSegmentsCoeff>
+            <terrainLODDistanceCoeff>2.000000</terrainLODDistanceCoeff>
+            <lodDistanceCoeff>2.000000</lodDistanceCoeff>
+            <shadowQuality>2.000000</shadowQuality>
+            <skipMipmaps>0</skipMipmaps>
+            <foliageViewDistanceCoeff>2.000000</foliageViewDistanceCoeff>
+        </scalability>
+        <renderer>D3D_12</renderer>
+    </graphic>
+    <audio enable="true" volume="1.000000"/>
+    <input>
+        <joystick enable="true" vibration="true" deadzone="0.14"/>
+        <mouse enable="true"/>
+        <keyboard enable="true"/>
+        <headTracking active="true" trackir="true" tobiieyex="true"/>
+    </input>
+    <usbBeaconLight enable="true"/>
+    <logging>
+        <file enable="true" filename="log.txt"/>
+        <console enable="true"/>
+    </logging>
+    <development>
+        <controls>true</controls>
+        <openDevConsole onWarnings="false" onErrors="false"/>
+    </development>
+    <startMode>1</startMode>
+</game>
