@@ -61,6 +61,7 @@
     <uiScale>1.000000</uiScale>
     <realBeaconLights>true</realBeaconLights>
     <cameraBobbing>true</cameraBobbing>
-    <showHelpTrigger>true</showHelpTrigger>
+    <showHelpTrigger>false</showHelpTrigger>
     <shownFreemodeWarning>false</shownFreemodeWarning>
+    <lastPlayerStyle filename="dataS/character/humans/player/player01.xml" beardConfig="0" bottomConfig="1" bottomConfigColor="1" faceConfig="1" faceConfigColor="1" footwearConfig="1" footwearConfigColor="1" glassesConfig="0" glovesConfig="0" hairStyleConfig="2" hairStyleConfigColor="6" headgearConfig="0" mustacheConfig="0" onepieceConfig="0" topConfig="4" topConfigColor="1" facegearConfig="0"/>
 </gameSettings>

@@ -22,9 +22,9 @@
             <volumeMeshTessellationCoeff>0.500000</volumeMeshTessellationCoeff>
             <anisotropy>16</anisotropy>
             <shadingRateQuality>3</shadingRateQuality>
-            <msaa>0</msaa>
             <lodDistanceCoeff>2.000000</lodDistanceCoeff>
             <foliageViewDistanceCoeff>2.000000</foliageViewDistanceCoeff>
+            <dlssQuality>Quality</dlssQuality>
         </scalability>
         <renderer>D3D_12</renderer>
     </graphic>

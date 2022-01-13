@@ -217,6 +217,7 @@
     </actionBinding>
     <actionBinding action="TOGGLE_SEEDS">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_y" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjIzYTg3ODU1JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_9" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjIzYTg3ODU1JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_10" axisComponent="+" neutralInput="0" index="2"/>
     </actionBinding>
     <actionBinding action="TOGGLE_SEEDS_BACK">
@@ -236,7 +237,6 @@
     </actionBinding>
     <actionBinding action="TOGGLE_MAP_SIZE">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_9" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjIzYTg3ODU1JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_24" axisComponent="+" neutralInput="0" index="2"/>
     </actionBinding>
     <actionBinding action="VARIABLE_WORK_WIDTH_LEFT"/>
     <actionBinding action="VARIABLE_WORK_WIDTH_RIGHT"/>
@@ -998,7 +998,7 @@
     </actionBinding>
     <devices>
         <device id="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JmY4NTAzMzImMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" name="G29 Driving Force Racing Wheel" category="2">
-            <attributes axis="0" deadzone="0.020000" sensitivity="1.000000"/>
+            <attributes axis="0" deadzone="0.000000" sensitivity="1.000000"/>
             <attributes axis="10" deadzone="0.020000" sensitivity="1.000000"/>
             <attributes axis="11" deadzone="0.020000" sensitivity="1.000000"/>
             <attributes axis="12" deadzone="0.020000" sensitivity="1.000000"/>
@@ -1012,4 +1012,141 @@
             <attributes axis="5" deadzone="0.140000" sensitivity="1.000000"/>
         </device>
     </devices>
+    <actionBinding action="vcaSNAPLEFT">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_a" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="vcaSNAPRIGHT">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_d" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="vcaSNAPPREV">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_a" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="vcaSNAPCONT">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_s" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="vcaSNAPNEXT">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_d" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="vcaKSAXIS">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_equals" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_minus" axisComponent="-" neutralInput="0" index="1"/>
+        <binding device="KB_MOUSE_DEFAULT" input="MOUSE_BUTTON_WHEEL_UP" axisComponent="+" neutralInput="0" index="3"/>
+        <binding device="KB_MOUSE_DEFAULT" input="MOUSE_BUTTON_WHEEL_DOWN" axisComponent="-" neutralInput="0" index="3"/>
+    </actionBinding>
+    <actionBinding action="vcaHandbrake">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_semicolon" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADSilomode">
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 AXIS_4+" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADPreviousMode"/>
+    <actionBinding action="ADRecord">
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADRecord_Dual"/>
+    <actionBinding action="ADRecord_SubPrio"/>
+    <actionBinding action="ADRecord_SubPrioDual"/>
+    <actionBinding action="ADEnDisable">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lalt KEY_up" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_17" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADSelectTarget">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lalt KEY_right" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_18" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADSelectPreviousTarget">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lalt KEY_left" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_20" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADSelectTargetUnload">
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 AXIS_3+" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADSelectPreviousTargetUnload">
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 AXIS_3-" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADActivateDebug">
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_11" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADDisplayMapPoints"/>
+    <actionBinding action="ADDebugSelectNeighbor">
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_9" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADDebugCreateConnection">
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_12" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADDebugToggleConnectionInverted"/>
+    <actionBinding action="ADDebugChangeNeighbor">
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 AXIS_4-" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADDebugPreviousNeighbor"/>
+    <actionBinding action="ADDebugCreateMapMarker"/>
+    <actionBinding action="ADRenameMapMarker"/>
+    <actionBinding action="ADDebugDeleteDestination"/>
+    <actionBinding action="ADNameDriver"/>
+    <actionBinding action="ADSetDestinationFilter"/>
+    <actionBinding action="AD_Speed_up"/>
+    <actionBinding action="AD_Speed_down"/>
+    <actionBinding action="AD_FieldSpeed_up"/>
+    <actionBinding action="AD_FieldSpeed_down"/>
+    <actionBinding action="ADToggleHud">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_KP_0" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_17" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADToggleMouse">
+        <binding device="KB_MOUSE_DEFAULT" input="MOUSE_BUTTON_MIDDLE" axisComponent="+" neutralInput="0" index="3"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 BUTTON_19" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADDebugDeleteWayPoint"/>
+    <actionBinding action="AD_routes_manager">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lalt KEY_KP_1" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADSelectNextFillType">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lalt KEY_o" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 AXIS_2-" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADSelectPreviousFillType">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lalt KEY_KP_4" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6 AXIS_2+" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADOpenGUI">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lalt KEY_KP_0" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_16" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="ADCallDriver"/>
+    <actionBinding action="ADGoToVehicle"/>
+    <actionBinding action="ADIncLoopCounter"/>
+    <actionBinding action="ADDecLoopCounter"/>
+    <actionBinding action="ADSwapTargets"/>
+    <actionBinding action="ADStartCP"/>
+    <actionBinding action="ADToggleCP_AIVE"/>
+    <actionBinding action="AD_open_notification_history">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lalt KEY_m" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="AD_continue"/>
+    <actionBinding action="ADParkVehicle"/>
+    <actionBinding action="ADSetParkDestination"/>
+    <actionBinding action="AD_devAction"/>
+    <actionBinding action="ADRefuelVehicle"/>
+    <actionBinding action="ADToggleHudExtension"/>
+    <actionBinding action="ADToggleAutomaticUnloadTarget"/>
+    <actionBinding action="ADToggleAutomaticPickupTarget"/>
+    <actionBinding action="ADRepairVehicle"/>
+    <actionBinding action="CP_DBG_CHANNEL_SELECT_PREVIOUS">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift KEY_1" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="CP_DBG_CHANNEL_SELECT_NEXT">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift KEY_3" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="CP_DBG_CHANNEL_TOGGLE_CURRENT">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift KEY_2" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="CP_DBG_CHANNEL_MENU_VISIBILITY">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift KEY_4" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="CP_OPEN_CLOSE_VEHICLE_SETTING_DISPLAY">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_delete" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="CP_START_STOP">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_h" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
 </inputBinding>
