@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <gameSettings revision="15">
-    <modsDirectoryOverride active="false" directory="C:/Temp"/>
+    <modsDirectoryOverride active="true" directory="D:/dev/FS22/dev_mods"/>
     <defaultMultiplayerPort>10823</defaultMultiplayerPort>
     <motorStopTimerDuration>180</motorStopTimerDuration>
     <horseAbandonTimerDuration>1800</horseAbandonTimerDuration>
@@ -31,7 +31,7 @@
         <voiceInput>1.000000</voiceInput>
     </volume>
     <soundPlayer allowStreams="true"/>
-    <radioIsActive>true</radioIsActive>
+    <radioIsActive>false</radioIsActive>
     <radioVehicleOnly>false</radioVehicleOnly>
     <voice mode="2"/>
     <units>
