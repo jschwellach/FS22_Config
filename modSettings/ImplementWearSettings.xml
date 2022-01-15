@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<ImplementWear VERSION="8">
+    <color>
+        <normal R="1.000000" G="1.000000" B="1.000000" A="1.000000"/>
+        <warning R="1.000000" G="1.000000" B="0.000000" A="1.000000"/>
+        <urgent R="1.000000" G="0.000000" B="0.000000" A="1.000000"/>
+    </color>
+    <position x="0.570000" y="0.074000"/>
+    <name includeBrand="true" maxNameLength="20" childIndent="3"/>
+    <font size="0.011000" line="1.200000"/>
+    <limits warning="100" urgent="50"/>
+    <displayMode currentDisplayMode="1"/>
+</ImplementWear>

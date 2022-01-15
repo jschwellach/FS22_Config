@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RealClock>
+    <position isDynamic="true" x="0.900000" y="0.980000"/>
+    <rendering color="white" fontSize="0.015000"/>
+    <format string="%H:%M:%S"/>
+</RealClock>

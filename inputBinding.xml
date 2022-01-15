@@ -1149,4 +1149,10 @@
     <actionBinding action="CP_START_STOP">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_h" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
+    <actionBinding action="instantWash_washKey">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_insert" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="LUMBERJACK_STRENGTH">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
 </inputBinding>
