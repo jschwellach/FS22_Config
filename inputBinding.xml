@@ -261,11 +261,12 @@
     </actionBinding>
     <actionBinding action="TOGGLE_SEEDS">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_y" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjIzYTg3ODU1JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_10" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_4" axisComponent="+" neutralInput="0" index="2"/>
+        <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjIzYTg3ODU1JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_10" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="TOGGLE_SEEDS_BACK">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift KEY_y" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjIzYTg3ODU1JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_9" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="TOGGLE_PIPE">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_o" axisComponent="+" neutralInput="0" index="1"/>
@@ -968,13 +969,13 @@
     </actionBinding>
     <actionBinding action="TOGGLE_LIGHT_FRONT"/>
     <actionBinding action="CONSOLE_ALT_COMMAND_BUTTON">
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="GAMEPAD_DEFAULT" input="BUTTON_5" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="CONSOLE_ALT_COMMAND2_BUTTON">
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_6" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="GAMEPAD_DEFAULT" input="BUTTON_6" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="CONSOLE_ALT_COMMAND3_BUTTON">
-        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_6" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="GAMEPAD_DEFAULT" input="BUTTON_5 BUTTON_6" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="CONSOLE_DEBUG_TOGGLE_FPS">
         <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JmY4NTAzMzImMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_17 BUTTON_5 BUTTON_6 BUTTON_2" axisComponent="+" neutralInput="0" index="1"/>
@@ -1137,20 +1138,6 @@
         <binding device="KB_MOUSE_DEFAULT" input="KEY_rshift KEY_b" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <devices>
-        <device id="0_XINPUT_GAMEPAD" name="XINPUT_GAMEPAD" category="1">
-            <attributes axis="0" deadzone="0.140000" sensitivity="1.000000"/>
-            <attributes axis="1" deadzone="0.140000" sensitivity="1.000000"/>
-            <attributes axis="2" deadzone="0.140000" sensitivity="1.000000"/>
-            <attributes axis="3" deadzone="0.140000" sensitivity="1.000000"/>
-            <attributes axis="10" deadzone="0.140000" sensitivity="1.000000"/>
-            <attributes axis="11" deadzone="0.140000" sensitivity="1.000000"/>
-        </device>
-        <device id="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JmY4NTAzMzImMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" name="G29 Driving Force Racing Wheel" category="2">
-            <attributes axis="0" deadzone="0.000000" sensitivity="1.000000"/>
-            <attributes axis="10" deadzone="0.020000" sensitivity="1.000000"/>
-            <attributes axis="11" deadzone="0.020000" sensitivity="1.000000"/>
-            <attributes axis="12" deadzone="0.020000" sensitivity="1.000000"/>
-        </device>
         <device id="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjIzYTg3ODU1JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" name="Saitek Side Panel Control Deck" category="5">
             <attributes axis="0" deadzone="0.140000" sensitivity="1.000000"/>
             <attributes axis="1" deadzone="0.140000" sensitivity="1.000000"/>
@@ -1158,6 +1145,20 @@
             <attributes axis="3" deadzone="0.140000" sensitivity="1.000000"/>
             <attributes axis="4" deadzone="0.140000" sensitivity="1.000000"/>
             <attributes axis="5" deadzone="0.140000" sensitivity="1.000000"/>
+        </device>
+        <device id="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JmY4NTAzMzImMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" name="G29 Driving Force Racing Wheel" category="2">
+            <attributes axis="0" deadzone="0.000000" sensitivity="1.000000"/>
+            <attributes axis="10" deadzone="0.020000" sensitivity="1.000000"/>
+            <attributes axis="11" deadzone="0.020000" sensitivity="1.000000"/>
+            <attributes axis="12" deadzone="0.020000" sensitivity="1.000000"/>
+        </device>
+        <device id="0_XINPUT_GAMEPAD" name="XINPUT_GAMEPAD" category="1">
+            <attributes axis="0" deadzone="0.140000" sensitivity="1.000000"/>
+            <attributes axis="1" deadzone="0.140000" sensitivity="1.000000"/>
+            <attributes axis="2" deadzone="0.140000" sensitivity="1.000000"/>
+            <attributes axis="3" deadzone="0.140000" sensitivity="1.000000"/>
+            <attributes axis="10" deadzone="0.140000" sensitivity="1.000000"/>
+            <attributes axis="11" deadzone="0.140000" sensitivity="1.000000"/>
         </device>
     </devices>
     <actionBinding action="vcaSNAPLEFT">
@@ -1298,9 +1299,43 @@
         <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_h" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="instantWash_washKey">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_insert" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_x" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="LUMBERJACK_STRENGTH">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="CP_TOGGLE_MOUSE">
+        <binding device="KB_MOUSE_DEFAULT" input="MOUSE_BUTTON_RIGHT" axisComponent="+" neutralInput="0" index="3"/>
+    </actionBinding>
+    <actionBinding action="HLM_TOGGLESTATE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_1" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="HLM_SWITCHOFF">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_2" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="HLM_SWITCHON">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_3" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="HLM_SHOWGUI">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_4" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="AL_LOAD_PALLET">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_r" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_11" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="AL_TOGGLE_LOADINGTYPE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_z" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_10" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="AL_TOGGLE_TIPSIDE">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_u" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_13" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="AL_UNLOAD">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_i" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_XINPUT_GAMEPAD" input="BUTTON_15" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="AL_TOGGLE_MARKERS">
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_u" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
 </inputBinding>

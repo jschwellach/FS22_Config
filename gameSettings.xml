@@ -31,7 +31,7 @@
         <voiceInput>1.000000</voiceInput>
     </volume>
     <soundPlayer allowStreams="true"/>
-    <radioIsActive>false</radioIsActive>
+    <radioIsActive>true</radioIsActive>
     <radioVehicleOnly>false</radioVehicleOnly>
     <voice mode="2"/>
     <units>

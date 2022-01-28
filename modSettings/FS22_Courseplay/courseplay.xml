@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Courseplay>
+    <GlobalSettings>
+        <GlobalSetting value="1" name="controllerHudSelected"/>
+    </GlobalSettings>
+    <Hud posX="0.313953" posY="0.055556"/>
+</Courseplay>
