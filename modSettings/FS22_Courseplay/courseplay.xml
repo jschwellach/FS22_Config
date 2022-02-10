@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Courseplay>
+<Courseplay lastVersion="7.0.0.28">
     <GlobalSettings>
         <GlobalSetting value="2" name="controllerHudSelected"/>
+        <GlobalSetting value="1" name="showsAllActiveCourses"/>
     </GlobalSettings>
     <Hud posX="0.313953" posY="0.055556"/>
 </Courseplay>

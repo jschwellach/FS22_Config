@@ -44,7 +44,7 @@
     <showTriggerMarker>true</showTriggerMarker>
     <showFieldInfo>true</showFieldInfo>
     <showHelpIcons>true</showHelpIcons>
-    <showHelpMenu>false</showHelpMenu>
+    <showHelpMenu>true</showHelpMenu>
     <resetCamera>false</resetCamera>
     <activeSuspensionCamera>true</activeSuspensionCamera>
     <cameraCheckCollision>true</cameraCheckCollision>
@@ -63,5 +63,6 @@
     <cameraBobbing>true</cameraBobbing>
     <showHelpTrigger>false</showHelpTrigger>
     <shownFreemodeWarning>false</shownFreemodeWarning>
-    <lastPlayerStyle filename="dataS/character/humans/player/player01.xml" beardConfig="0" bottomConfig="1" bottomConfigColor="1" faceConfig="1" faceConfigColor="1" footwearConfig="1" footwearConfigColor="1" glassesConfig="0" glovesConfig="0" hairStyleConfig="2" hairStyleConfigColor="6" headgearConfig="0" mustacheConfig="0" onepieceConfig="0" topConfig="4" topConfigColor="1" facegearConfig="0"/>
+    <lastPlayerStyle filename="dataS/character/humans/player/player01.xml" beardConfig="31" bottomConfig="0" bottomConfigColor="1" faceConfig="1" faceConfigColor="1" footwearConfig="15" footwearConfigColor="3" glassesConfig="5" glovesConfig="0" hairStyleConfig="9" hairStyleConfigColor="6" headgearConfig="4" mustacheConfig="1" onepieceConfig="9" topConfig="0" topConfigColor="1" facegearConfig="0" beardConfigColor="6" glassesConfigColor="1" headgearConfigColor="5" mustacheConfigColor="6" onepieceConfigColor="7"/>
+    <lastCreatedLicensePlate variation="1" color="1" placement="1" characters="PL-438-TJ" configuration="data/maps/mapFR/licensePlates/licensePlatesFR.xml"/>
 </gameSettings>
