@@ -241,8 +241,8 @@
     </actionBinding>
     <actionBinding action="IMPLEMENT_EXTRA2">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_x" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjIzYTg3ODU1JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_5" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="0_XINPUT_GAMEPAD" input="BUTTON_5 BUTTON_2" axisComponent="+" neutralInput="0" index="2"/>
+        <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjIzYTg3ODU1JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_5" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="IMPLEMENT_EXTRA3">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_y" axisComponent="+" neutralInput="0" index="1"/>
@@ -1091,9 +1091,7 @@
         <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_lalt KEY_w" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="vcaNO_ARB"/>
-    <actionBinding action="vcaINCHING">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt" axisComponent="+" neutralInput="0" index="1"/>
-    </actionBinding>
+    <actionBinding action="vcaINCHING"/>
     <actionBinding action="vcaKEEPROT">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_insert" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
@@ -1138,6 +1136,12 @@
         <binding device="KB_MOUSE_DEFAULT" input="KEY_rshift KEY_b" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <devices>
+        <device id="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JmY4NTAzMzImMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" name="G29 Driving Force Racing Wheel" category="2">
+            <attributes axis="0" deadzone="0.000000" sensitivity="1.000000"/>
+            <attributes axis="10" deadzone="0.020000" sensitivity="1.000000"/>
+            <attributes axis="11" deadzone="0.020000" sensitivity="1.000000"/>
+            <attributes axis="12" deadzone="0.020000" sensitivity="1.000000"/>
+        </device>
         <device id="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjIzYTg3ODU1JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" name="Saitek Side Panel Control Deck" category="5">
             <attributes axis="0" deadzone="0.140000" sensitivity="1.000000"/>
             <attributes axis="1" deadzone="0.140000" sensitivity="1.000000"/>
@@ -1145,12 +1149,6 @@
             <attributes axis="3" deadzone="0.140000" sensitivity="1.000000"/>
             <attributes axis="4" deadzone="0.140000" sensitivity="1.000000"/>
             <attributes axis="5" deadzone="0.140000" sensitivity="1.000000"/>
-        </device>
-        <device id="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JmY4NTAzMzImMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" name="G29 Driving Force Racing Wheel" category="2">
-            <attributes axis="0" deadzone="0.000000" sensitivity="1.000000"/>
-            <attributes axis="10" deadzone="0.020000" sensitivity="1.000000"/>
-            <attributes axis="11" deadzone="0.020000" sensitivity="1.000000"/>
-            <attributes axis="12" deadzone="0.020000" sensitivity="1.000000"/>
         </device>
         <device id="0_XINPUT_GAMEPAD" name="XINPUT_GAMEPAD" category="1">
             <attributes axis="0" deadzone="0.140000" sensitivity="1.000000"/>
@@ -1299,7 +1297,7 @@
         <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_h" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="instantWash_washKey">
-        <binding device="KB_MOUSE_DEFAULT" input="KEY_x" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="KB_MOUSE_DEFAULT" input="KEY_0" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="LUMBERJACK_STRENGTH">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt" axisComponent="+" neutralInput="0" index="1"/>
@@ -1308,6 +1306,7 @@
         <binding device="KB_MOUSE_DEFAULT" input="MOUSE_BUTTON_RIGHT" axisComponent="+" neutralInput="0" index="3"/>
     </actionBinding>
     <actionBinding action="HLM_TOGGLESTATE">
+        <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JmY4NTAzMzImMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_3" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="KB_MOUSE_DEFAULT" input="KEY_lalt KEY_1" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="HLM_SWITCHOFF">

@@ -5,7 +5,7 @@
     <motorStopTimerDuration>180</motorStopTimerDuration>
     <horseAbandonTimerDuration>1800</horseAbandonTimerDuration>
     <invertYLook>false</invertYLook>
-    <isHeadTrackingEnabled>true</isHeadTrackingEnabled>
+    <isHeadTrackingEnabled>false</isHeadTrackingEnabled>
     <forceFeedback>0.500000</forceFeedback>
     <isGamepadEnabled>true</isGamepadEnabled>
     <cameraSensitivity>1.000000</cameraSensitivity>
