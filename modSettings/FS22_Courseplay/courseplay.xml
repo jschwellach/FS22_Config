@@ -1,7 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Courseplay>
+<Courseplay lastVersion="7.0.1.6">
     <GlobalSettings>
-        <GlobalSetting value="2" name="controllerHudSelected"/>
+        <GlobalSetting currentValue="false" name="controllerHudSelected"/>
+        <GlobalSetting currentValue="false" name="showsAllActiveCourses"/>
+        <GlobalSetting currentValue="true" name="showActionEventHelp"/>
+        <GlobalSetting currentValue="true" name="infoTextHudActive"/>
+        <GlobalSetting currentValue="false" name="preferCustomFields"/>
     </GlobalSettings>
-    <Hud posX="0.313953" posY="0.055556"/>
+    <Hud posX="0.193313" posY="0.029167"/>
+    <HudInfoTexts posX="0.787694" posY="0.983102"/>
 </Courseplay>

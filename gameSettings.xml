@@ -31,7 +31,7 @@
         <voiceInput>1.000000</voiceInput>
     </volume>
     <soundPlayer allowStreams="true"/>
-    <radioIsActive>true</radioIsActive>
+    <radioIsActive>false</radioIsActive>
     <radioVehicleOnly>false</radioVehicleOnly>
     <voice mode="2"/>
     <units>
@@ -63,5 +63,11 @@
     <cameraBobbing>true</cameraBobbing>
     <showHelpTrigger>false</showHelpTrigger>
     <shownFreemodeWarning>false</shownFreemodeWarning>
-    <lastPlayerStyle filename="dataS/character/humans/player/player01.xml" beardConfig="0" bottomConfig="1" bottomConfigColor="1" faceConfig="1" faceConfigColor="1" footwearConfig="1" footwearConfigColor="1" glassesConfig="0" glovesConfig="0" hairStyleConfig="2" hairStyleConfigColor="6" headgearConfig="0" mustacheConfig="0" onepieceConfig="0" topConfig="4" topConfigColor="1" facegearConfig="0"/>
+    <lastPlayerStyle filename="dataS/character/humans/player/player01.xml" beardConfig="31" bottomConfig="1" bottomConfigColor="5" faceConfig="1" faceConfigColor="1" footwearConfig="20" footwearConfigColor="3" glassesConfig="0" glovesConfig="0" hairStyleConfig="10" hairStyleConfigColor="6" headgearConfig="19" mustacheConfig="13" onepieceConfig="0" topConfig="34" topConfigColor="65" facegearConfig="0" beardConfigColor="6" headgearConfigColor="1" mustacheConfigColor="6" onepieceConfigColor="1"/>
+    <realBeaconLightBrightness>1.000000</realBeaconLightBrightness>
+    <showMultiplayerNames>true</showMultiplayerNames>
+    <ingameMapGrowthFilter>1022</ingameMapGrowthFilter>
+    <ingameMapSoilFilter>254</ingameMapSoilFilter>
+    <ingameMapFruitFilter></ingameMapFruitFilter>
+    <lastCreatedLicensePlate variation="1" color="1" placement="1" characters="LH-474-SY" configuration="data/maps/mapFR/licensePlates/licensePlatesFR.xml"/>
 </gameSettings>
