@@ -6,7 +6,7 @@
             <width>3440</width>
             <height>1440</height>
             <brightness>1</brightness>
-            <fullscreenMode>exclusive_fullscreen</fullscreenMode>
+            <fullscreenMode>windowed</fullscreenMode>
             <vsync adaptive="true">false</vsync>
             <userConfirmed>true</userConfirmed>
             <previousWidth>1280</previousWidth>

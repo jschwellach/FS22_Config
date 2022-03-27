@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<!--Real Dirt Color Settings-->
+<!-- View the Readme.txt for individual vehicle support options -->
+
+<settings>
+
+  <simpleMode enabled="false"/>  <!--simpleMode: All wheels and parts are colored as one-->
+  <independentMode maxNumOfWheels="12"/>  <!--independentMode: More than maxNumOfWheels will set the individual vehicle/tool to simple mode-->
+  <coldSlowsColor enabled="false"/>  <!--coldSlowsColor: Cold weather slows the color change speed (except when color becomes snow)-->
+  <realTimeSnowMelting enabled="true"/>  <!--realTimeSnowMelting: Revert snow color to dirt color on all parked vehicles during warm weather.-->
+
+  <colorSettings>
+    <baseSpeed value= "0.005"/> <!--Lower value to lower the speed.-->
+    <revertSpeed value="20.0"/> <!--Raise value to lower speed.-->
+  </colorSettings>
+
+  <redDirtMaps>
+    <redDirtMap name = "EstanciaLapacho"/>
+    
+    <!-- Add Maps with red dirt here.
+
+    examples:
+    
+    <redDirtMap name = "NewRedDirtMapName"/>
+    <redDirtMap name = "OtherRedSoilMapName"/>
+    -->
+
+  </redDirtMaps>
+
+  <writeToLog showVehicles="true" debugging="false"/>  <!--writeToLog: Additional log file output for Developers-->
+
+</settings>

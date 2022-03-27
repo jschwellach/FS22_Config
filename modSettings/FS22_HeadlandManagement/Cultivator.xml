@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<configSettings>
+    <turnSpeed>5.000000</turnSpeed>
+    <useSpeedControl>true</useSpeedControl>
+    <useModSpeedControl>false</useModSpeedControl>
+    <useCrabSteering>true</useCrabSteering>
+    <useCrabSteeringTwoStep>true</useCrabSteeringTwoStep>
+    <useRaiseImplementF>true</useRaiseImplementF>
+    <useRaiseImplementB>true</useRaiseImplementB>
+    <waitOnTrigger>false</waitOnTrigger>
+    <useStopPTOF>true</useStopPTOF>
+    <useStopPTOB>true</useStopPTOB>
+    <turnPlow>true</turnPlow>
+    <centerPlow>true</centerPlow>
+    <switchRidge>true</switchRidge>
+    <useGPS>true</useGPS>
+    <gpsSetting>2</gpsSetting>
+    <useGuidanceSteeringTrigger>false</useGuidanceSteeringTrigger>
+    <useGuidanceSteeringOffset>false</useGuidanceSteeringOffset>
+    <useHLMTriggerF>false</useHLMTriggerF>
+    <useHLMTriggerB>true</useHLMTriggerB>
+    <headlandDistance>9</headlandDistance>
+    <vcaDirSwitch>true</vcaDirSwitch>
+    <autoResume>true</autoResume>
+    <useDiffLock>true</useDiffLock>
+</configSettings>

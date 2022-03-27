@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<terraFarm>
+    <settings>
+        <enabled>true</enabled>
+        <debug>false</debug>
+        <interval>50</interval>
+        <disableDischarge>false</disableDischarge>
+        <terraformDisablePaint>false</terraformDisablePaint>
+        <dischargePaintLayer>GRASS</dischargePaintLayer>
+        <terraformPaintLayer>DIRT</terraformPaintLayer>
+        <fillTypeName>STONE</fillTypeName>
+        <fillTypeMassRatio>0.500000</fillTypeMassRatio>
+        <raiseDisplacementVolumeRatio>1.000000</raiseDisplacementVolumeRatio>
+        <lowerDisplacementVolumeRatio>1.618000</lowerDisplacementVolumeRatio>
+        <flattenDisplacementVolumeRatio>1.000000</flattenDisplacementVolumeRatio>
+        <flattenDischargeDisplacementVolumeRatio>0.500000</flattenDischargeDisplacementVolumeRatio>
+    </settings>
+    <defaults>
+        <volumeFillRatio>1.000000</volumeFillRatio>
+        <terraformStrength>50.000000</terraformStrength>
+        <terraformRadius>2.000000</terraformRadius>
+        <terraformPaintRadius>2.000000</terraformPaintRadius>
+        <terraformSmoothStrength>50.000000</terraformSmoothStrength>
+        <terraformSmoothRadius>2.000000</terraformSmoothRadius>
+        <terraformFlattenStrength>50.000000</terraformFlattenStrength>
+        <terraformFlattenRadius>2.000000</terraformFlattenRadius>
+    </defaults>
+</terraFarm>

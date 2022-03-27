@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<additionalSettings version="1.0.0.0">
+    <autostart>false</autostart>
+    <storeItems>0</storeItems>
+    <crosshair>0</crosshair>
+    <clockPosition>0</clockPosition>
+    <date>2</date>
+    <dof>true</dof>
+    <fadeEffect>1</fadeEffect>
+    <wildAnimals>true</wildAnimals>
+    <dialogBoxes>true</dialogBoxes>
+    <hud>true</hud>
+    <trailerHUD>false</trailerHUD>
+    <guiCamera>true</guiCamera>
+    <vehicleCamera>0</vehicleCamera>
+    <playerCamera>0</playerCamera>
+    <cameraCollisions>true</cameraCollisions>
+    <easyMotorStart>false</easyMotorStart>
+    <hourFormat>true</hourFormat>
+</additionalSettings>

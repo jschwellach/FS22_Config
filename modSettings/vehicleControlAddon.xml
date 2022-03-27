@@ -1,4 +1,2 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<vehicleControlAddon>
-    <configuration name="camInsideRotation" value="2"/>
-</vehicleControlAddon>
+<vehicleControlAddon/>
