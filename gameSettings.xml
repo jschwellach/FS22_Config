@@ -13,7 +13,7 @@
     <steeringBackSpeed>5.000000</steeringBackSpeed>
     <steeringSensitivity>1.000000</steeringSensitivity>
     <inputHelpMode>1</inputHelpMode>
-    <easyArmControl>true</easyArmControl>
+    <easyArmControl>false</easyArmControl>
     <gyroscopeSteering>false</gyroscopeSteering>
     <hints>true</hints>
     <cameraTilting>false</cameraTilting>
@@ -31,9 +31,9 @@
         <voiceInput>1.000000</voiceInput>
     </volume>
     <soundPlayer allowStreams="true"/>
-    <radioIsActive>false</radioIsActive>
+    <radioIsActive>true</radioIsActive>
     <radioVehicleOnly>false</radioVehicleOnly>
-    <voice mode="2"/>
+    <voice mode="2" inputSensitivity="1"/>
     <units>
         <money>2</money>
         <miles>false</miles>
@@ -44,12 +44,12 @@
     <showTriggerMarker>true</showTriggerMarker>
     <showFieldInfo>true</showFieldInfo>
     <showHelpIcons>true</showHelpIcons>
-    <showHelpMenu>true</showHelpMenu>
+    <showHelpMenu>false</showHelpMenu>
     <resetCamera>false</resetCamera>
     <activeSuspensionCamera>true</activeSuspensionCamera>
     <cameraCheckCollision>true</cameraCheckCollision>
     <useWorldCamera>true</useWorldCamera>
-    <ingameMapState>2</ingameMapState>
+    <ingameMapState>3</ingameMapState>
     <ingameMapFilters>0</ingameMapFilters>
     <directionChangeMode>2</directionChangeMode>
     <gearShiftMode>1</gearShiftMode>
