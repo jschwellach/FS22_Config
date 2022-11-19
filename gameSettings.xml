@@ -44,13 +44,13 @@
     <showTriggerMarker>true</showTriggerMarker>
     <showFieldInfo>true</showFieldInfo>
     <showHelpIcons>true</showHelpIcons>
-    <showHelpMenu>false</showHelpMenu>
+    <showHelpMenu>true</showHelpMenu>
     <resetCamera>false</resetCamera>
     <activeSuspensionCamera>true</activeSuspensionCamera>
     <cameraCheckCollision>true</cameraCheckCollision>
     <useWorldCamera>true</useWorldCamera>
-    <ingameMapState>3</ingameMapState>
-    <ingameMapFilters>0</ingameMapFilters>
+    <ingameMapState>2</ingameMapState>
+    <ingameMapFilters>412</ingameMapFilters>
     <directionChangeMode>2</directionChangeMode>
     <gearShiftMode>1</gearShiftMode>
     <hudSpeedGauge>1</hudSpeedGauge>
@@ -63,11 +63,13 @@
     <cameraBobbing>true</cameraBobbing>
     <showHelpTrigger>false</showHelpTrigger>
     <shownFreemodeWarning>false</shownFreemodeWarning>
-    <lastPlayerStyle filename="dataS/character/humans/player/player01.xml" beardConfig="31" bottomConfig="1" bottomConfigColor="5" faceConfig="1" faceConfigColor="1" footwearConfig="20" footwearConfigColor="3" glassesConfig="0" glovesConfig="0" hairStyleConfig="10" hairStyleConfigColor="6" headgearConfig="19" mustacheConfig="13" onepieceConfig="0" topConfig="34" topConfigColor="65" facegearConfig="0" beardConfigColor="6" headgearConfigColor="1" mustacheConfigColor="6" onepieceConfigColor="1"/>
+    <lastPlayerStyle filename="dataS/character/humans/player/player01.xml" beardConfigId="trimmed_head01" beardConfigColor="6" bottomConfigId="jeans" bottomConfigColor="5" faceConfigId="head01" faceConfigColor="1" footwearConfigId="newholland" footwearConfigColor="3" hairStyleConfigId="hair10" hairStyleConfigColor="6" headgearConfigId="eroHat" headgearConfigColor="1" mustacheConfigId="horseshoe_head01" mustacheConfigColor="6" topConfigId="kubotaHoodieWhite" topConfigColor="65"/>
     <realBeaconLightBrightness>1.000000</realBeaconLightBrightness>
     <showMultiplayerNames>true</showMultiplayerNames>
     <ingameMapGrowthFilter>1022</ingameMapGrowthFilter>
     <ingameMapSoilFilter>254</ingameMapSoilFilter>
-    <ingameMapFruitFilter></ingameMapFruitFilter>
+    <ingameMapFruitFilter>GRASS</ingameMapFruitFilter>
     <lastCreatedLicensePlate variation="1" color="1" placement="1" characters="LH-474-SY" configuration="data/maps/mapFR/licensePlates/licensePlatesFR.xml"/>
+    <frameLimit>60</frameLimit>
+    <woodHarvesterAutoCut>true</woodHarvesterAutoCut>
 </gameSettings>

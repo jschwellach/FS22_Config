@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Courseplay lastVersion="7.0.1.20">
+<Courseplay lastVersion="7.1.0.0">
     <GlobalSettings>
         <GlobalSetting currentValue="true" name="expertModeActive"/>
         <GlobalSetting currentValue="false" name="controllerHudSelected"/>
@@ -9,6 +9,6 @@
         <GlobalSetting currentValue="true" name="infoTextHudPlayerMouseActive"/>
         <GlobalSetting currentValue="false" name="preferCustomFields"/>
     </GlobalSettings>
-    <Hud posX="0.194476" posY="0.029861"/>
+    <Hud posX="0.195348" posY="0.029861"/>
     <HudInfoTexts posX="0.670834" posY="0.998380"/>
 </Courseplay>

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<lighting>
+	<envMap basePath="$data/store/ui/envMaps/shop/" attr10="true">
+		<timeProbe timeHours="0"/>
+	</envMap>
+
+	<envAlbedoGroundColors>
+		<spring value="0.042 0.036 0.03"/>
+		<summer value="0.042 0.036 0.03"/>
+		<autumn value="0.042 0.036 0.03"/>
+		<winter value="0.042 0.036 0.03"/>
+		<snow value="0.042 0.036 0.03"/>
+	</envAlbedoGroundColors>
+
+	<colorGrading>
+		<day filename="colorGrading.xml"/>
+		<night filename="colorGradingNight.xml"/>
+	</colorGrading>
+
+	<autoExposure>
+		<key value="0.170 -1.0 1.5" time="0"/>
+		<key value="0.170 -1.0 1.5" time="5"/>
+		<key value="0.170 -0.5 0.75" time="8"/>
+		<key value="0.170 -0.5 0.75" time="18"/>
+		<key value="0.170 -1.0 1.5" time="21"/>
+		<key value="0.170 -1.0 1.5" time="24"/>
+	</autoExposure>
+
+	<fixedExposure>
+		<key value="0.5" time="0"/>
+		<key value="0.8" time="6"/>
+		<key value="1.0" time="8"/>
+		<key value="1.3" time="12"/>
+		<key value="0.8" time="18"/>
+		<key value="0.5" time="20"/>
+	</fixedExposure>
+
+	<sunRotation heightAngleLimitRotation="60" heightAngleLimitRotationStart="56" heightAngleLimitRotationEnd="80">
+		<key value="0" time="0"/>
+		<key value="80" time="6.5"/>
+		<key value="-80" time="6.5"/>
+		<key value="0" time="12"/>
+		<key value="80" time="19.5"/>
+		<key value="-80" time="19.5"/>
+		<key value="0" time="24"/>
+	</sunRotation>
+
+	<lightScatteringRotation>
+		<key value="0 -180" time="0"/>
+		<key value="80 -80" time="6.5"/>
+		<key value="-80 80" time="6.5"/>
+		<key value="0 180" time="12"/>
+		<key value="0 -180" time="12"/>
+		<key value="80 -80" time="19.5"/>
+		<key value="-80 80" time="19.5"/>
+		<key value="0 180" time="24"/>
+	</lightScatteringRotation>
+
+	<primaryDynamicLightingScale>
+		<key value="1" time="0"/>
+		<key value="1" time="6.2"/>
+		<key value="0.0" time="6.5"/>
+		<key value="1" time="6.8"/>
+		<key value="1" time="19.2"/>
+		<key value="0.0" time="19.5"/>
+		<key value="1" time="19.8"/>
+		<key value="1" time="24"/>
+	</primaryDynamicLightingScale>
+
+	<primaryExtraterrestrialColor>
+		<key value="0.04 0.04 0.04" time="0"/>
+		<key value="0.04 0.04 0.04" time="6.5"/>
+		<key value="1.0 1.0 1.0" time="6.5"/>
+		<key value="1.0 1.0 1.0" time="19.5"/>
+		<key value="0.04 0.04 0.04" time="19.5"/>
+		<key value="0.04 0.04 0.04" time="24"/>
+	</primaryExtraterrestrialColor>
+
+	<secondaryExtraterrestrialColor>
+		<key value="0.0 0.0 0.0" time="0"/>
+		<key value="0.0 0.0 0.0" time="5"/>
+		<key value="1.0 1.0 1.0" time="6.5"/>
+		<key value="0.04 0.04 0.04" time="6.5"/>
+		<key value="0.0 0.0 0.0" time="7"/>
+		<key value="0.0 0.0 0.0" time="18.5"/>
+		<key value="0.04 0.04 0.04" time="19.5"/>
+		<key value="1.0 1.0 1.0" time="19.5"/>
+		<key value="0.0 0.0 0.0" time="21"/>
+		<key value="0.0 0.0 0.0" time="24"/>
+	</secondaryExtraterrestrialColor>
+
+	<asymmetryFactor>
+		<key value="0.9" time="0"/>
+		<key value="0.5" time="8"/>
+		<key value="0.5" time="20"/>
+		<key value="0.9" time="24"/>
+	</asymmetryFactor>
+
+	<sunBrightnessScale>
+		<key value="0.0" time="0"/>
+		<key value="0.0" time="5.5"/>
+		<key value="0.01" time="6"/>
+		<key value="2" time="8"/>
+		<key value="8" time="12"/>
+		<key value="2" time="18"/>
+		<key value="0.01" time="20"/>
+		<key value="0.0" time="20.5"/>
+		<key value="0.0" time="24"/>
+	</sunBrightnessScale>
+
+	<sunSizeScale>
+		<key value="1000" time="0"/>
+		<key value="3000" time="6"/>
+		<key value="10000" time="7"/>
+		<key value="25000" time="12"/>
+		<key value="10000" time="19"/>
+		<key value="3000" time="20"/>
+		<key value="1000" time="24"/>
+	</sunSizeScale>
+
+	<moonBrightnessScale>
+		<key value="4" time="0"/>
+		<key value="0.5" time="7"/>
+		<key value="0.0" time="7.5"/>
+		<key value="0.0" time="18.5"/>
+		<key value="0.5" time="19"/>
+		<key value="4" time="24"/>
+	</moonBrightnessScale>
+
+	<moonSizeScale>
+		<key value="36" time="0"/>
+		<key value="36" time="24"/>
+	</moonSizeScale>
+
+	<sunIsPrimary>
+		<key value="0" time="0"/>
+		<key value="0" time="6.5"/>
+		<key value="1" time="6.5"/>
+		<key value="1" time="19.5"/>
+		<key value="0" time="19.5"/>
+		<key value="0" time="24"/>
+	</sunIsPrimary>
+</lighting>
