@@ -31,7 +31,7 @@
         <voiceInput>1.000000</voiceInput>
     </volume>
     <soundPlayer allowStreams="true"/>
-    <radioIsActive>true</radioIsActive>
+    <radioIsActive>false</radioIsActive>
     <radioVehicleOnly>false</radioVehicleOnly>
     <voice mode="2" inputSensitivity="1"/>
     <units>
@@ -49,7 +49,7 @@
     <activeSuspensionCamera>true</activeSuspensionCamera>
     <cameraCheckCollision>true</cameraCheckCollision>
     <useWorldCamera>true</useWorldCamera>
-    <ingameMapState>2</ingameMapState>
+    <ingameMapState>3</ingameMapState>
     <ingameMapFilters>412</ingameMapFilters>
     <directionChangeMode>2</directionChangeMode>
     <gearShiftMode>1</gearShiftMode>
@@ -61,7 +61,7 @@
     <uiScale>1.000000</uiScale>
     <realBeaconLights>true</realBeaconLights>
     <cameraBobbing>true</cameraBobbing>
-    <showHelpTrigger>false</showHelpTrigger>
+    <showHelpTrigger>true</showHelpTrigger>
     <shownFreemodeWarning>false</shownFreemodeWarning>
     <lastPlayerStyle filename="dataS/character/humans/player/player01.xml" beardConfigId="trimmed_head01" beardConfigColor="6" bottomConfigId="jeans" bottomConfigColor="5" faceConfigId="head01" faceConfigColor="1" footwearConfigId="newholland" footwearConfigColor="3" hairStyleConfigId="hair10" hairStyleConfigColor="6" headgearConfigId="eroHat" headgearConfigColor="1" mustacheConfigId="horseshoe_head01" mustacheConfigColor="6" topConfigId="kubotaHoodieWhite" topConfigColor="65"/>
     <realBeaconLightBrightness>1.000000</realBeaconLightBrightness>
@@ -71,5 +71,5 @@
     <ingameMapFruitFilter>GRASS</ingameMapFruitFilter>
     <lastCreatedLicensePlate variation="1" color="1" placement="1" characters="LH-474-SY" configuration="data/maps/mapFR/licensePlates/licensePlatesFR.xml"/>
     <frameLimit>60</frameLimit>
-    <woodHarvesterAutoCut>true</woodHarvesterAutoCut>
+    <woodHarvesterAutoCut>false</woodHarvesterAutoCut>
 </gameSettings>
