@@ -22,7 +22,7 @@
     <player lastPlayerStyleMale="true"/>
     <mpLanguage>0</mpLanguage>
     <volume>
-        <music>0.500000</music>
+        <music>0.600000</music>
         <vehicle>1.000000</vehicle>
         <environment>0.500000</environment>
         <radio>0.400000</radio>
@@ -31,7 +31,7 @@
         <voiceInput>1.000000</voiceInput>
     </volume>
     <soundPlayer allowStreams="true"/>
-    <radioIsActive>false</radioIsActive>
+    <radioIsActive>true</radioIsActive>
     <radioVehicleOnly>false</radioVehicleOnly>
     <voice mode="2" inputSensitivity="1"/>
     <units>
@@ -44,13 +44,13 @@
     <showTriggerMarker>true</showTriggerMarker>
     <showFieldInfo>true</showFieldInfo>
     <showHelpIcons>true</showHelpIcons>
-    <showHelpMenu>true</showHelpMenu>
+    <showHelpMenu>false</showHelpMenu>
     <resetCamera>false</resetCamera>
     <activeSuspensionCamera>true</activeSuspensionCamera>
     <cameraCheckCollision>true</cameraCheckCollision>
     <useWorldCamera>true</useWorldCamera>
     <ingameMapState>3</ingameMapState>
-    <ingameMapFilters>412</ingameMapFilters>
+    <ingameMapFilters>404</ingameMapFilters>
     <directionChangeMode>2</directionChangeMode>
     <gearShiftMode>1</gearShiftMode>
     <hudSpeedGauge>1</hudSpeedGauge>
@@ -69,7 +69,12 @@
     <ingameMapGrowthFilter>1022</ingameMapGrowthFilter>
     <ingameMapSoilFilter>254</ingameMapSoilFilter>
     <ingameMapFruitFilter>GRASS</ingameMapFruitFilter>
-    <lastCreatedLicensePlate variation="1" color="1" placement="1" characters="LH-474-SY" configuration="data/maps/mapFR/licensePlates/licensePlatesFR.xml"/>
+    <lastCreatedLicensePlate variation="1" color="1" placement="1" characters="124IUO___" configuration="E:/SteamLibrary/steamapps/common/Farming Simulator 22/pdlc/forestryPack/map/licensePlates/licensePlatesSF.xml"/>
     <frameLimit>60</frameLimit>
     <woodHarvesterAutoCut>false</woodHarvesterAutoCut>
+    <precisionFarming initialized="true">
+        <settings>
+            <inputHelpDisplay state="true"/>
+        </settings>
+    </precisionFarming>
 </gameSettings>

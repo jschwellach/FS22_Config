@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Courseplay lastVersion="7.1.2.0">
+<Courseplay lastVersion="7.1.2.3">
     <GlobalSettings>
         <GlobalSetting currentValue="true" name="expertModeActive"/>
         <GlobalSetting currentValue="false" name="controllerHudSelected"/>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<!--Real Dirt Color Tracks Settings-->
+
+<settings>
+
+  <colorSettings>
+    <coloringSpeed value= "5.0"/> <!--Lower value to lower the speed.-->
+    <revertSpeed value="2.0"/> <!--Lower value to lower speed.-->
+  </colorSettings>
+
+  <justForFun>
+    <rainbowTracks value = "false"/> <!--Changes all tire tracks to rainbow colors.-->
+  </justForFun>
+
+</settings>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+
+<!--Real Dirt Fix Settings-->
+
+<settings>
+  
+  <modTrackColorOnly value= "false"/> <!--if using 'Real Dirt Color Tracks' you can keep you keep the original cleaning of vehicles by grass, roads and rain (bypass this most of this mod) by setting this to "true"-->
+
+</settings>

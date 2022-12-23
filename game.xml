@@ -28,7 +28,7 @@
         </scalability>
         <renderer>D3D_12</renderer>
     </graphic>
-    <audio enable="true" volume="1.000000"/>
+    <audio enable="true" volume="0.400000"/>
     <input>
         <joystick enable="true" vibration="true" deadzone="0.14"/>
         <mouse enable="true"/>

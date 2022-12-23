@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<VehicleInfoConfig>
+    <showHelp>true</showHelp>
+    <shiftX>0.068800</shiftX>
+    <shiftY>0.837700</shiftY>
+    <size>1.000000</size>
+    <usageType>1</usageType>
+    <modActive>true</modActive>
+</VehicleInfoConfig>
