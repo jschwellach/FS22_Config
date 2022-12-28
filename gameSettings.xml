@@ -22,7 +22,7 @@
     <player lastPlayerStyleMale="true"/>
     <mpLanguage>0</mpLanguage>
     <volume>
-        <music>0.600000</music>
+        <music>0.000000</music>
         <vehicle>1.000000</vehicle>
         <environment>0.500000</environment>
         <radio>0.400000</radio>
@@ -31,7 +31,7 @@
         <voiceInput>1.000000</voiceInput>
     </volume>
     <soundPlayer allowStreams="true"/>
-    <radioIsActive>true</radioIsActive>
+    <radioIsActive>false</radioIsActive>
     <radioVehicleOnly>false</radioVehicleOnly>
     <voice mode="2" inputSensitivity="1"/>
     <units>
@@ -44,7 +44,7 @@
     <showTriggerMarker>true</showTriggerMarker>
     <showFieldInfo>true</showFieldInfo>
     <showHelpIcons>true</showHelpIcons>
-    <showHelpMenu>false</showHelpMenu>
+    <showHelpMenu>true</showHelpMenu>
     <resetCamera>false</resetCamera>
     <activeSuspensionCamera>true</activeSuspensionCamera>
     <cameraCheckCollision>true</cameraCheckCollision>
