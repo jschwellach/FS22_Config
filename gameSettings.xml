@@ -44,7 +44,7 @@
     <showTriggerMarker>true</showTriggerMarker>
     <showFieldInfo>true</showFieldInfo>
     <showHelpIcons>true</showHelpIcons>
-    <showHelpMenu>true</showHelpMenu>
+    <showHelpMenu>false</showHelpMenu>
     <resetCamera>false</resetCamera>
     <activeSuspensionCamera>true</activeSuspensionCamera>
     <cameraCheckCollision>true</cameraCheckCollision>

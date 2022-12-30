@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <additionalSettings version="1.1.0.0">
+    <clockPosition>0</clockPosition>
     <hourFormat>true</hourFormat>
     <fadeEffect>1</fadeEffect>
     <dialogBoxes>true</dialogBoxes>
-    <date>2</date>
     <trailerHUD>0</trailerHUD>
+    <storeItems>0</storeItems>
     <vehicleCamera>0</vehicleCamera>
     <playerCamera>0</playerCamera>
     <easyMotorStart>false</easyMotorStart>
-    <hud>true</hud>
     <autostart>false</autostart>
     <dof>true</dof>
     <wildAnimals>true</wildAnimals>
+    <date>2</date>
     <cameraCollisions>true</cameraCollisions>
+    <hud>true</hud>
     <guiCamera>true</guiCamera>
     <crosshair>0</crosshair>
     <clockColor>0</clockColor>
-    <clockPosition>0</clockPosition>
-    <storeItems>0</storeItems>
 </additionalSettings>

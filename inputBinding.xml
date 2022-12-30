@@ -128,17 +128,17 @@
     </actionBinding>
     <actionBinding action="SHIFT_GEAR_UP">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_KP_plus" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JjFjNjlkOGUmMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_8" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="SHIFT_GEAR_DOWN">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_KP_minus" axisComponent="+" neutralInput="0" index="1"/>
-        <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JjFjNjlkOGUmMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_7" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="SHIFT_GROUP_UP">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_KP_9" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JjFjNjlkOGUmMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_8" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="SHIFT_GROUP_DOWN">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_KP_7" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JjFjNjlkOGUmMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_7" axisComponent="+" neutralInput="0" index="1"/>
     </actionBinding>
     <actionBinding action="DIRECTION_CHANGE">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_space" axisComponent="+" neutralInput="0" index="1"/>
@@ -194,26 +194,32 @@
     <actionBinding action="VEHICLE_ACTION_CONTROL">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_b" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjI1MDU0ZiYwJjAwMDAjezRkMWU1NWIyLWYxNmYtMTFjZi04OGNiLTAwMTExMTAwMDAzMH0A" input="BUTTON_4" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_044F-B10A-0100-XFw/XEhJRCNWSURfMDQ0RiZQSURfQjEwQSM2JjE4ODE5ZTM4JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_12" axisComponent="+" neutralInput="0" index="2"/>
     </actionBinding>
     <actionBinding action="LOWER_IMPLEMENT">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_v" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjI1MDU0ZiYwJjAwMDAjezRkMWU1NWIyLWYxNmYtMTFjZi04OGNiLTAwMTExMTAwMDAzMH0A" input="BUTTON_20" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_044F-B10A-0100-XFw/XEhJRCNWSURfMDQ0RiZQSURfQjEwQSM2JjE4ODE5ZTM4JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_14" axisComponent="+" neutralInput="0" index="2"/>
     </actionBinding>
     <actionBinding action="IMPLEMENT_EXTRA">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_b" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjI1MDU0ZiYwJjAwMDAjezRkMWU1NWIyLWYxNmYtMTFjZi04OGNiLTAwMTExMTAwMDAzMH0A" input="BUTTON_4" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_044F-B10A-0100-XFw/XEhJRCNWSURfMDQ0RiZQSURfQjEwQSM2JjE4ODE5ZTM4JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_12" axisComponent="+" neutralInput="0" index="2"/>
     </actionBinding>
     <actionBinding action="IMPLEMENT_EXTRA2">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_x" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjI1MDU0ZiYwJjAwMDAjezRkMWU1NWIyLWYxNmYtMTFjZi04OGNiLTAwMTExMTAwMDAzMH0A" input="BUTTON_5" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_044F-B10A-0100-XFw/XEhJRCNWSURfMDQ0RiZQSURfQjEwQSM2JjE4ODE5ZTM4JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_11" axisComponent="+" neutralInput="0" index="2"/>
     </actionBinding>
     <actionBinding action="IMPLEMENT_EXTRA3">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_y" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjI1MDU0ZiYwJjAwMDAjezRkMWU1NWIyLWYxNmYtMTFjZi04OGNiLTAwMTExMTAwMDAzMH0A" input="BUTTON_9" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_044F-B10A-0100-XFw/XEhJRCNWSURfMDQ0RiZQSURfQjEwQSM2JjE4ODE5ZTM4JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_15" axisComponent="+" neutralInput="0" index="2"/>
     </actionBinding>
     <actionBinding action="IMPLEMENT_EXTRA4">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_z" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjI1MDU0ZiYwJjAwMDAjezRkMWU1NWIyLWYxNmYtMTFjZi04OGNiLTAwMTExMTAwMDAzMH0A" input="BUTTON_10" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_044F-B10A-0100-XFw/XEhJRCNWSURfMDQ0RiZQSURfQjEwQSM2JjE4ODE5ZTM4JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_16" axisComponent="+" neutralInput="0" index="2"/>
     </actionBinding>
     <actionBinding action="DOUBLED_SPRAY_AMOUNT">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_comma" axisComponent="+" neutralInput="0" index="1"/>
@@ -221,10 +227,12 @@
     <actionBinding action="TOGGLE_SEEDS">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_y" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjI1MDU0ZiYwJjAwMDAjezRkMWU1NWIyLWYxNmYtMTFjZi04OGNiLTAwMTExMTAwMDAzMH0A" input="BUTTON_10" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_044F-B10A-0100-XFw/XEhJRCNWSURfMDQ0RiZQSURfQjEwQSM2JjE4ODE5ZTM4JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_16" axisComponent="+" neutralInput="0" index="2"/>
     </actionBinding>
     <actionBinding action="TOGGLE_SEEDS_BACK">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_lshift KEY_y" axisComponent="+" neutralInput="0" index="1"/>
         <binding device="0_0738-2218-0001-XFw/XEhJRCNWSURfMDczOCZQSURfMjIxOCM2JjI1MDU0ZiYwJjAwMDAjezRkMWU1NWIyLWYxNmYtMTFjZi04OGNiLTAwMTExMTAwMDAzMH0A" input="BUTTON_9" axisComponent="+" neutralInput="0" index="1"/>
+        <binding device="0_044F-B10A-0100-XFw/XEhJRCNWSURfMDQ0RiZQSURfQjEwQSM2JjE4ODE5ZTM4JjAmMDAwMCN7NGQxZTU1YjItZjE2Zi0xMWNmLTg4Y2ItMDAxMTExMDAwMDMwfQA=" input="BUTTON_15" axisComponent="+" neutralInput="0" index="2"/>
     </actionBinding>
     <actionBinding action="TOGGLE_PIPE">
         <binding device="KB_MOUSE_DEFAULT" input="KEY_o" axisComponent="+" neutralInput="0" index="1"/>
@@ -861,14 +869,30 @@
     </actionBinding>
     <actionBinding action="MENU_AXIS_UP_DOWN_SECONDARY"/>
     <actionBinding action="TOGGLE_MAP"/>
-    <actionBinding action="SHIFT_GEAR_SELECT_1"/>
-    <actionBinding action="SHIFT_GEAR_SELECT_2"/>
-    <actionBinding action="SHIFT_GEAR_SELECT_3"/>
-    <actionBinding action="SHIFT_GEAR_SELECT_4"/>
-    <actionBinding action="SHIFT_GEAR_SELECT_5"/>
-    <actionBinding action="SHIFT_GEAR_SELECT_6"/>
-    <actionBinding action="SHIFT_GEAR_SELECT_7"/>
-    <actionBinding action="SHIFT_GEAR_SELECT_8"/>
+    <actionBinding action="SHIFT_GEAR_SELECT_1">
+        <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JjFjNjlkOGUmMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_26" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="SHIFT_GEAR_SELECT_2">
+        <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JjFjNjlkOGUmMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_27" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="SHIFT_GEAR_SELECT_3">
+        <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JjFjNjlkOGUmMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_28" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="SHIFT_GEAR_SELECT_4">
+        <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JjFjNjlkOGUmMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_29" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="SHIFT_GEAR_SELECT_5">
+        <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JjFjNjlkOGUmMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_30" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="SHIFT_GEAR_SELECT_6">
+        <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JjFjNjlkOGUmMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_31" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="SHIFT_GEAR_SELECT_7">
+        <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JjFjNjlkOGUmMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_30 BUTTON_7" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
+    <actionBinding action="SHIFT_GEAR_SELECT_8">
+        <binding device="0_046D-C24F-8900-XFw/XEhJRCNWSURfMDQ2RCZQSURfQzI0RiZNSV8wMCM3JjFjNjlkOGUmMCYwMDAwI3s0ZDFlNTViMi1mMTZmLTExY2YtODhjYi0wMDExMTEwMDAwMzB9AA==" input="BUTTON_31 BUTTON_7" axisComponent="+" neutralInput="0" index="1"/>
+    </actionBinding>
     <actionBinding action="SHIFT_GROUP_SELECT_1"/>
     <actionBinding action="SHIFT_GROUP_SELECT_2"/>
     <actionBinding action="SHIFT_GROUP_SELECT_3"/>
