@@ -55,21 +55,21 @@
     <gearShiftMode>1</gearShiftMode>
     <hudSpeedGauge>1</hudSpeedGauge>
     <useColorblindMode>false</useColorblindMode>
-    <maxNumMirrors>7</maxNumMirrors>
+    <maxNumMirrors>4</maxNumMirrors>
     <lightsProfile>4</lightsProfile>
     <fovY>60.000000</fovY>
     <uiScale>1.000000</uiScale>
-    <realBeaconLights>true</realBeaconLights>
+    <realBeaconLights>false</realBeaconLights>
     <cameraBobbing>true</cameraBobbing>
-    <showHelpTrigger>true</showHelpTrigger>
+    <showHelpTrigger>false</showHelpTrigger>
     <shownFreemodeWarning>false</shownFreemodeWarning>
-    <lastPlayerStyle filename="dataS/character/humans/player/player01.xml" beardConfigId="trimmed_head01" beardConfigColor="6" bottomConfigId="jeans" bottomConfigColor="5" faceConfigId="head01" faceConfigColor="1" footwearConfigId="newholland" footwearConfigColor="3" hairStyleConfigId="hair10" hairStyleConfigColor="6" headgearConfigId="eroHat" headgearConfigColor="1" mustacheConfigId="horseshoe_head01" mustacheConfigColor="6" topConfigId="kubotaHoodieWhite" topConfigColor="65"/>
+    <lastPlayerStyle filename="dataS/character/humans/player/player01.xml" beardConfigId="trimmed_head01" beardConfigColor="6" bottomConfigId="cargo" bottomConfigColor="6" faceConfigId="head01" faceConfigColor="1" footwearConfigId="eltenArborist" footwearConfigColor="3" glovesConfigId="stihlGloves" glovesConfigColor="1" hairStyleConfigId="hair10" hairStyleConfigColor="6" headgearConfigId="stihl" headgearConfigColor="1" mustacheConfigId="horseshoe_head01" mustacheConfigColor="6" topConfigId="constructionVest" topConfigColor="65"/>
     <realBeaconLightBrightness>1.000000</realBeaconLightBrightness>
     <showMultiplayerNames>true</showMultiplayerNames>
     <ingameMapGrowthFilter>1022</ingameMapGrowthFilter>
     <ingameMapSoilFilter>254</ingameMapSoilFilter>
     <ingameMapFruitFilter>GRASS</ingameMapFruitFilter>
-    <lastCreatedLicensePlate variation="1" color="1" placement="1" characters="124IUO___" configuration="E:/SteamLibrary/steamapps/common/Farming Simulator 22/pdlc/forestryPack/map/licensePlates/licensePlatesSF.xml"/>
+    <lastCreatedLicensePlate variation="2" color="1" placement="1" characters="JONO-0001" configuration="E:/SteamLibrary/steamapps/common/Farming Simulator 22/pdlc/forestryPack/map/licensePlates/licensePlatesSF.xml"/>
     <frameLimit>60</frameLimit>
     <woodHarvesterAutoCut>false</woodHarvesterAutoCut>
     <precisionFarming initialized="true">

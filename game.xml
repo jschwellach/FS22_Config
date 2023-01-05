@@ -16,15 +16,6 @@
         </display>
         <scalability>
             <performanceClass>Very High</performanceClass>
-            <postProcessAA>Off</postProcessAA>
-            <viewDistanceCoeff>2.000000</viewDistanceCoeff>
-            <maxNumShadowLights>10</maxNumShadowLights>
-            <volumeMeshTessellationCoeff>0.500000</volumeMeshTessellationCoeff>
-            <anisotropy>16</anisotropy>
-            <shadingRateQuality>3</shadingRateQuality>
-            <lodDistanceCoeff>2.000000</lodDistanceCoeff>
-            <foliageViewDistanceCoeff>2.000000</foliageViewDistanceCoeff>
-            <dlssQuality>Quality</dlssQuality>
         </scalability>
         <renderer>D3D_12</renderer>
     </graphic>
@@ -44,7 +35,7 @@
         <controls>true</controls>
         <openDevConsole onWarnings="false" onErrors="false"/>
     </development>
-    <startMode>1</startMode>
+    <startMode>6</startMode>
     <courseplay>
         <lastVersion>7.0.0.21</lastVersion>
     </courseplay>
