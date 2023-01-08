@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<thirdPerson>
+
+  <noWalkingBackwards value = "true"/>
+
+  <flashlight useCharacterDirection = "true"/>
+
+  <camera limitRotationXaxis = "true" disableCrouchHeightAdjustment="false"/>
+
+</thirdPerson>

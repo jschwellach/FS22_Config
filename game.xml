@@ -16,6 +16,10 @@
         </display>
         <scalability>
             <performanceClass>Very High</performanceClass>
+            <viewDistanceCoeff>2.000000</viewDistanceCoeff>
+            <anisotropy>0</anisotropy>
+            <postProcessAA>Nvidia DLAA</postProcessAA>
+            <useTrilinearFiltering>false</useTrilinearFiltering>
         </scalability>
         <renderer>D3D_12</renderer>
     </graphic>
@@ -35,7 +39,7 @@
         <controls>true</controls>
         <openDevConsole onWarnings="false" onErrors="false"/>
     </development>
-    <startMode>6</startMode>
+    <startMode>1</startMode>
     <courseplay>
         <lastVersion>7.0.0.21</lastVersion>
     </courseplay>

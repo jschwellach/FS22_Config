@@ -50,7 +50,7 @@
     <cameraCheckCollision>true</cameraCheckCollision>
     <useWorldCamera>true</useWorldCamera>
     <ingameMapState>3</ingameMapState>
-    <ingameMapFilters>404</ingameMapFilters>
+    <ingameMapFilters>16</ingameMapFilters>
     <directionChangeMode>2</directionChangeMode>
     <gearShiftMode>1</gearShiftMode>
     <hudSpeedGauge>1</hudSpeedGauge>
@@ -69,7 +69,7 @@
     <ingameMapGrowthFilter>1022</ingameMapGrowthFilter>
     <ingameMapSoilFilter>254</ingameMapSoilFilter>
     <ingameMapFruitFilter>GRASS</ingameMapFruitFilter>
-    <lastCreatedLicensePlate variation="2" color="1" placement="1" characters="JONO-0001" configuration="E:/SteamLibrary/steamapps/common/Farming Simulator 22/pdlc/forestryPack/map/licensePlates/licensePlatesSF.xml"/>
+    <lastCreatedLicensePlate variation="2" color="1" placement="2" characters="JONO-0002" configuration="E:/SteamLibrary/steamapps/common/Farming Simulator 22/pdlc/forestryPack/map/licensePlates/licensePlatesSF.xml"/>
     <frameLimit>60</frameLimit>
     <woodHarvesterAutoCut>false</woodHarvesterAutoCut>
     <precisionFarming initialized="true">
