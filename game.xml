@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <game>
-    <language>-1</language>
+    <language>0</language>
     <graphic>
         <display>
             <width>3440</width>
             <height>1440</height>
-            <brightness>1</brightness>
+            <brightness>1.000000</brightness>
             <fullscreenMode>windowed</fullscreenMode>
             <vsync adaptive="true">false</vsync>
             <userConfirmed>true</userConfirmed>
-            <previousWidth>1280</previousWidth>
-            <previousHeight>720</previousHeight>
+            <previousWidth>3440</previousWidth>
+            <previousHeight>1440</previousHeight>
             <rtScaling>1.000000</rtScaling>
             <scaling>1.000000</scaling>
         </display>
@@ -23,7 +23,7 @@
         </scalability>
         <renderer>D3D_12</renderer>
     </graphic>
-    <audio enable="true" volume="0.400000"/>
+    <audio enable="true" volume="0.600000"/>
     <input>
         <joystick enable="true" vibration="true" deadzone="0.14"/>
         <mouse enable="true"/>

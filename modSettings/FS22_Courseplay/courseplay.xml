@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
-<Courseplay lastVersion="7.2.0.0">
+<Courseplay lastVersion="7.2.0.2">
     <GlobalSettings>
         <GlobalSetting currentValue="true" name="expertModeActive"/>
         <GlobalSetting currentValue="false" name="controllerHudSelected"/>
@@ -11,6 +11,6 @@
         <GlobalSetting currentValue="false" name="preferCustomFields"/>
         <GlobalSetting currentValue="0" name="distanceUnit"/>
     </GlobalSettings>
-    <Hud posX="0.195348" posY="0.029861"/>
-    <HudInfoTexts posX="0.670834" posY="0.998380"/>
+    <Hud posX="0.195348" posY="0.040278"/>
+    <HudInfoTexts posX="0.883915" posY="0.901158"/>
 </Courseplay>
